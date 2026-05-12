@@ -1,0 +1,34 @@
+"a" has 1 occurrences(s):
+   in file dir1/f1
+      at line 1, column 6
+"and" has 1 occurrences(s):
+   in file dir1/dir2/f2
+      at line 1, column 5
+"day" has 2 occurrences(s):
+   in file dir1/dir2/f2
+      at line 1, column 1
+   in file dir1/f1
+      at line 2, column 10
+"dies" has 2 occurrences(s):
+   in file dir1/dir2/f3
+      at line 1, column 1
+      at line 2, column 1
+"great" has 1 occurrences(s):
+   in file dir1/f1
+      at line 2, column 4
+"have" has 1 occurrences(s):
+   in file dir1/f1
+      at line 1, column 1
+"illa" has 1 occurrences(s):
+   in file dir1/dir2/f3
+      at line 2, column 6
+"irae" has 1 occurrences(s):
+   in file dir1/dir2/f3
+      at line 1, column 6
+"night" has 1 occurrences(s):
+   in file dir1/dir2/f2
+      at line 1, column 9
+
+number of distinct words  9
+number of occurrences     11
+

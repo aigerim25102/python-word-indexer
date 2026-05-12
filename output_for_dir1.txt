@@ -1,0 +1,27 @@
+dir2\f2 (3)
+and (1)
+line 1, column 5
+day (1)
+line 1, column 1
+night (1)
+line 1, column 9
+dir2\f3 (4)
+dies (2)
+line 1, column 1
+line 2, column 1
+illa (1)
+line 2, column 6
+irae (1)
+line 1, column 6
+f1 (4)
+a (1)
+line 1, column 6
+day (1)
+line 2, column 10
+great (1)
+line 2, column 4
+have (1)
+line 1, column 1
+number of distinct words  3
+number of occurrences     11
+
